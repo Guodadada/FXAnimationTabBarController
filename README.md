@@ -2,7 +2,7 @@
 
 - 实现点击UITabBarItem抖动效果，可以自定义包裹UINavigationController
 - 
-![image](/FXAnimationTabBarController/FXAnimationTabBar.gif)
+![image](https://github.com/Guodadada/FXAnimationTabBarController/blob/master/FXAnimationTabBar.gif)
 
 
 ##实现步骤简单方便
