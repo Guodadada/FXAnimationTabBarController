@@ -12,12 +12,7 @@
 * 调用提供的方法添加子控制器：
 
 ```c
-tabBarControllerAddChildViewController
-(       childView: UIViewController, 
-title: String, 
-imageName: String, 
-selectedImageName: String, 
-tag: Int) 
+tabBarControllerAddChildViewController(childView: UIViewController, title: String, imageName: String, selectedImageName: String, tag: Int)
 ```
 
 * 可以自定义包裹UINavigationController，比如
