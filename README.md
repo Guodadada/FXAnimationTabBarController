@@ -1,4 +1,5 @@
 # FXAnimationTabBarController
+
 - 实现点击UITabBarItem抖动效果，可以自定义包裹UINavigationController
 - 
 ![image](/FXAnimationTabBarController/FXAnimationTabBar.gif)
@@ -31,3 +32,4 @@ tabBarControllerAddChildViewController(nav, title: "ONE", imageName: "tabbar_hom
 * 尽情运行下看看效果吧少年们
 
 * 具体实现参看demo 
+
